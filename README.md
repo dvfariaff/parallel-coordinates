@@ -12,7 +12,7 @@ In order to obtain a linear history, please adhere to the [workflow](https://git
 
 * [Wikipedia](http://en.wikipedia.org/wiki/Parallel_coordinates)
 * [Parallel Coordinates](http://eagereyes.org/techniques/parallel-coordinates), Robert Kosara
-* [Better Know a Visualization: Parallel Coordinates](http://www.juiceanalytics.com/writing/parallel-coordinates/), Zach Gemignani
+* [Better Know a Visualization: Parallel Coordinates](http://www.juiceanalytics.com/writing/writing/parallel-coordinates), Zach Gemignani
 * [Multivariate Analysis Using Parallel Coordinates](http://www.b-eye-network.com/view/3355), Stephen Few
 * [Edward Tufte's "Slopegraphs"](http://charliepark.org/slopegraphs/), Charlie Park
 * [Data Visualization's Final Frontier](http://smartdatacollective.com/j-kevin-byrne/52031/data-visualizations-final-frontier), J. Kevin Byrne
